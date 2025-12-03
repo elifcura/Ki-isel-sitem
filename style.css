@@ -1,0 +1,71 @@
+/* Genel Ayarlar */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #fefefe;
+    color: #333;
+}
+
+/* Hero */
+.hero-section {
+    background-color: #e0f7fa;
+    color: #007b7f;
+}
+.hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+.hero-section p.lead {
+    font-size: 1.25rem;
+}
+.btn-primary {
+    background-color: #007b7f;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #005f60;
+}
+
+/* Hakkımda */
+#about h2 {
+    color: #007b7f;
+}
+
+/* Projeler Kartları */
+.card {
+    border-radius: 10px;
+}
+.card-title {
+    color: #007b7f;
+}
+.project-btn {
+    width: 100%;
+}
+
+/* Motivasyon Bölümü */
+#motivation h2 {
+    color: #007b7f;
+}
+#motivationText {
+    color: #555;
+}
+#motivationBtn {
+    width: 200px;
+}
+
+/* Footer */
+footer {
+    color: #555;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
